@@ -1,16 +1,19 @@
-body {
-    background-color:rgb(240, 203, 191);
-  }
   
   h1 {
-    color: rgb(51, 51, 51);
-    text-align: center;
+    color: rgb(104, 104, 104);
+    font-family: "Lucida Console", "Courier New", monospace;    text-align: center;
   }
   
   p {
-    color: rgb(100, 100, 100);
-    font-family: verdana;
+    color: rgb(245, 245, 245);
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: sticky;
     font-size: 20px;
+  }
+  
+  p1 {
+    color: #f1f1f1;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
 
   /* The sidebar menu */
@@ -22,6 +25,7 @@ body {
   top: 0; /* Stay at the top */
   left: 0;
   background-color: #111; /* Black */
+  font-family: "Lucida Console", "Courier New", monospace;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -51,3 +55,4 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
