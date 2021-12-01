@@ -16,6 +16,11 @@
     font-family: "Lucida Console", "Courier New", monospace;
   }
 
+  p2 {
+    color: #d8d8d8;
+    font-family: "Lucida Console", monospace;
+  }
+
   /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
